@@ -1,0 +1,26 @@
+{
+  "version": "5.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yak",
+      "points": [
+        [
+          42.028985507246375,
+          257.4130434782609
+        ],
+        [
+          1289.855072463768,
+          1035.673913043478
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Google_0051.jpeg",
+  "imageData": null,
+  "imageHeight": 1067,
+  "imageWidth": 1600
+}

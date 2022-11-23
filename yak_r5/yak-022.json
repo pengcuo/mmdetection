@@ -1,0 +1,122 @@
+{
+  "version": "5.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yak",
+      "points": [
+        [
+          124.26373626373623,
+          485.0769230769231
+        ],
+        [
+          179.20879120879118,
+          577.3846153846154
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          49.53846153846149,
+          410.35164835164835
+        ],
+        [
+          162.7252747252747,
+          468.5934065934066
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          1.18681318681314,
+          324.6373626373626
+        ],
+        [
+          57.23076923076917,
+          394.967032967033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          189.09890109890108,
+          223.53846153846155
+        ],
+        [
+          253.93406593406593,
+          270.7912087912088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          120.96703296703294,
+          224.63736263736266
+        ],
+        [
+          191.29670329670324,
+          267.4945054945055
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          41.84615384615381,
+          188.3736263736264
+        ],
+        [
+          100.08791208791206,
+          226.83516483516485
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          8.87912087912082,
+          203.75824175824178
+        ],
+        [
+          47.34065934065933,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "yak-022.jpeg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 576
+}

@@ -1,0 +1,42 @@
+{
+  "version": "5.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yak",
+      "points": [
+        [
+          31.31818181818184,
+          391.6666666666667
+        ],
+        [
+          1004.0454545454546,
+          1052.2727272727273
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          963.1363636363636,
+          258.3333333333333
+        ],
+        [
+          1335.8636363636365,
+          574.9999999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Google_0023.jpeg",
+  "imageData": null,
+  "imageHeight": 1400,
+  "imageWidth": 1399
+}

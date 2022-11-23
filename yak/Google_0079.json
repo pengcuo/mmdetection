@@ -1,0 +1,74 @@
+{
+  "version": "5.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yak",
+      "points": [
+        [
+          595.813953488372,
+          371.04651162790697
+        ],
+        [
+          773.7209302325581,
+          636.1627906976745
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          107.44186046511625,
+          374.5348837209302
+        ],
+        [
+          453.95348837209303,
+          680.3488372093024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          950.4651162790697,
+          390.81395348837214
+        ],
+        [
+          1079.5348837209303,
+          552.4418604651163
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          1116.7441860465117,
+          404.76744186046517
+        ],
+        [
+          1273.7209302325582,
+          543.139534883721
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Google_0079.jpeg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

@@ -1,0 +1,58 @@
+{
+  "version": "5.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yak",
+      "points": [
+        [
+          546.7213114754098,
+          251.22950819672133
+        ],
+        [
+          866.3934426229508,
+          498.77049180327873
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          130.327868852459,
+          210.24590163934425
+        ],
+        [
+          717.2131147540985,
+          482.3770491803279
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yak",
+      "points": [
+        [
+          3.278688524590164,
+          197.1311475409836
+        ],
+        [
+          234.4262295081967,
+          395.4918032786885
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Bing_0048.jpeg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 900
+}

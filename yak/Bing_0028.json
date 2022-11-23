@@ -1,0 +1,26 @@
+{
+  "version": "5.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yak",
+      "points": [
+        [
+          283.6911764705883,
+          76.04411764705883
+        ],
+        [
+          916.0441176470588,
+          590.0147058823529
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Bing_0028.jpeg",
+  "imageData": null,
+  "imageHeight": 619,
+  "imageWidth": 1024
+}

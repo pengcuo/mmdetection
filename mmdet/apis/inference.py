@@ -238,3 +238,9 @@ def show_result_pyplot(model,
         win_name=title,
         bbox_color=(72, 101, 241),
         text_color=(72, 101, 241))
+
+
+
+def draw_result2(model, img, result, class_names, score_thr=0.3):
+    return model.show_result(
+        img, result, score_thr=score_thr, show=False)
